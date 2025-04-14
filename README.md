@@ -1,2 +1,4 @@
 # git-demo
-author = rithish
+author = rithish (rithi)
+
+come on lt's do this
