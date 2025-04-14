@@ -1,2 +1,2 @@
 # git-demo
-authors = rithish
+author = rithish
